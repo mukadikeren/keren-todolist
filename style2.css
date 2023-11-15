@@ -1,0 +1,22 @@
+body{
+   margin:0px ; 
+   padding: 0px;
+}
+
+@media (max-width:900px){
+  .aii{
+    width: ;
+  }
+}
+
+.grey{
+  background-color: aqua;  
+}
+.bleu{
+    background-color: rgb(234, 206, 164);
+}
+.vert{
+    background-color: darkgreen;
+
+}
+
